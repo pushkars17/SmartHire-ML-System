@@ -3,7 +3,7 @@
 Developed by: **Pushkar Sharma**
 
 ## Overview
-SmartHire is an end-to-end Machine Learning project developed in **R** to analyze and predict student internship selections. Using a dataset of 10,000+ records, the system identifies key performance indicators (KPIs) like Coding Scores, CGPA, and Soft Skills that drive successful recruitment.
+SmartHire is an end-to-end Machine Learning project developed in R. The system is trained and validated on a large-scale dataset of 10,000+ student records, identifying key performance indicators (KPIs) like Coding Scores and CGPA.
 
 ## Key Features
 - **Modular Pipeline:** Separate scripts for Data Cleaning, EDA, Statistics, and Modeling.
