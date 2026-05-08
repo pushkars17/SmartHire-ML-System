@@ -1,0 +1,16 @@
+# R specific files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Data and Models
+data/processed/
+output/models/
+output/plots/
+*.rds
+*.csv
+!data/raw/Internship_Selection_Dataset.csv
+
+# Others
+.DS_Store

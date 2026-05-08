@@ -1,0 +1,21 @@
+[1] "--- Chi-Square Test: College Tier vs Selection ---"
+
+	Pearson's Chi-squared test
+
+data:  tier_table
+X-squared = 3.8871, df = 2, p-value = 0.1432
+
+[1] "Interpretation: Agar p-value < 0.05 hai, toh College Tier ka selection par asar padta hai."
+[1] "\n--- T-Test: Coding Score vs Selection Status ---"
+
+	Welch Two Sample t-test
+
+data:  coding_test_score by selected
+t = -3.5553, df = 4735.1, p-value = 0.0003813
+alternative hypothesis: true difference in means between group 0 and group 1 is not equal to 0
+95 percent confidence interval:
+ -0.3542234 -0.1024195
+sample estimates:
+mean in group 0 mean in group 1 
+       5.281036        5.509357 
+
