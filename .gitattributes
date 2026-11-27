@@ -1,0 +1,7 @@
+*.R linguist-language=R
+*.py linguist-language=Python
+
+data/** linguist-generated=true
+output/** linguist-generated=true
+*.db linguist-generated=true
+*.sqlite linguist-generated=true
