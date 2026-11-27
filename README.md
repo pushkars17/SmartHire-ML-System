@@ -103,7 +103,6 @@ SmartHire-ML-System/
 │   ├── raw/                   # Raw dataset files
 │   └── processed/             # Processed datasets
 ├── output/                    # Plots, metrics & generated artifacts
-├── docs/                      # Project documentation & reports
 └── README.md
 ```
 
